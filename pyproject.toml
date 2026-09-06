@@ -1,0 +1,9 @@
+[project]
+name = "Tech-Assessment"
+version = "1.0.0"
+description = "Tech Assessment, gemaakt door Wesley Heijnen"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.5",
+]
